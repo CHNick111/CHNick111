@@ -27,7 +27,7 @@ header { background-color: #005EB8; /* Темно-синий цвет */ color: 
 /height: auto; } h1 { margin:1px; font-size: 10px; /* Одинаковый размер заголовков */ font-weight: bold; padding-top: 1px; /* Одинаковое выравнивание заголовка */ } 
 h4 { margin:1%; font-size: 20px; /* Одинаковый размер заголовков */ font-weight: bold; padding-top: 1px; /* Одинаковое выравнивание заголовка */ } 
 .team-photo { text-align: center; margin: 20px 20px; }
-.team-image { width: 150%;  max-width: 80%; height: auto; border-radius: 20px; box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2); transition: transform 0.3s; } 
+.team-image { width: 150%;  max-width: 70%; height: auto; border-radius: 20px; box-shadow: 0 30px 20px rgba(0, 0, 0, 0.2); transition: transform 0.3s; } 
 .team-image { transform: scale(1.05); } 
 .buttons { display: flex; justify-content: center; margin: 20px 0; flex-wrap: wrap; } 
 .button { display: inline-block; padding: 25px 35px; /*}  
